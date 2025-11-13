@@ -8,3 +8,7 @@ Virtual DOM
 JSX
 Components - Types of components, Create Components 
 
+Day-2:
+Elements - creating elements, styling elememts
+images- adding images, styling images
+props
